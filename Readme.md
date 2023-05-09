@@ -14,12 +14,12 @@ Customer segmentation refers to the process of dividing a broad consumer busines
 
 ## PART 1 : Analyze and Clean the dataset
 
-Cleaning the data
-Exploratory analysis
-Feature engineering
+- Cleaning the data
+- Exploratory analysis
+- Feature engineering
 ## PART 2 : Creating customer categories
 
-Intermediate dataset grouped by invoices
-Final dataset grouped by customers
-K-means clustering
-Interpreting the clusters
+- Intermediate dataset grouped by invoices
+- Final dataset grouped by customers
+- K-means clustering
+- Interpreting the clusters
